@@ -1,4 +1,4 @@
-# landing-page-boilerplate
+# vivicod-landing-page
 
 A pure client-side landing page template that you can freely fork, customize, host and link to your own domain name (e.g. using Github Pages).
 Relies on Mailchimp (for user email subscriptions) and Google Analytics (for stats).
